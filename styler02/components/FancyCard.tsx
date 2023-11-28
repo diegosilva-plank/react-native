@@ -8,7 +8,7 @@ export default function FancyCard() {
       <View style={[styles.card, styles.cardElevated]}>
         <Image 
           source={{
-            uri: 'https://i0.wp.com/media.architecturaldigest.com/photos/5dcc33a8995edd00090eeb8e/16:9/w_4287,h_2411,c_limit/GettyImages-158630535.jpg?ssl=1',
+            uri: 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQZA8s3i80S9sJnQwPMBucnYOuPjOsPWuuWKP272agfS60vRU_0o1Vzv_6W03OySwua1OyWOjO2wlK9hVL2lzOgQ',
             headers: {
               Accept: '*/*',
             },
